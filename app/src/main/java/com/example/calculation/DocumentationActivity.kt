@@ -60,7 +60,7 @@ class DocumentationActivity : AppCompatActivity() {
                                 }
                                 
                                 h1 {
-                                    color: #2196F3;
+                                    color:rgb(243, 33, 138);
                                     border-bottom: 2px solid #2196F3;
                                     padding-bottom: 10px;
                                     margin-bottom: 30px;
